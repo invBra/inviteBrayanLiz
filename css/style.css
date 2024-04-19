@@ -76,6 +76,18 @@ body {
   height: 400px;
 }
 
+.tipografia2{
+  color: black;
+  font-family: 'Playfair Display', serif;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.2;
+  position: absolute;
+  top: 78%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 img {
   width: 100%;
   height: 667px;
@@ -499,7 +511,7 @@ button.bg-secondary:focus {
   font-size: 4rem;
   line-height: 1.2;
   position: absolute;
-  top: 85%;
+  top: 93%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
